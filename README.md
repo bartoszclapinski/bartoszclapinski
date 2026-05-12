@@ -127,7 +127,7 @@
 ![Blazor](https://img.shields.io/badge/Blazor-1a1b26?style=for-the-badge&logo=blazor&logoColor=bb9af7&labelColor=1a1b26)
 ![SignalR](https://img.shields.io/badge/SignalR-1a1b26?style=for-the-badge&logo=dotnet&logoColor=7dcfff&labelColor=1a1b26)
 ![Java](https://img.shields.io/badge/Java-1a1b26?style=for-the-badge&logo=openjdk&logoColor=e0af68&labelColor=1a1b26)
-![OpenAI](https://img.shields.io/badge/OpenAI-1a1b26?style=for-the-badge&logo=openai&logoColor=f7768e&labelColor=1a1b26)
+![OpenAI](https://img.shields.io/badge/OpenAI-1a1b26?style=for-the-badge&logo=openai&logoColor=white&labelColor=1a1b26)
 ![Anthropic](https://img.shields.io/badge/Claude_API-1a1b26?style=for-the-badge&logo=anthropic&logoColor=e0af68&labelColor=1a1b26)
 
 </div>
