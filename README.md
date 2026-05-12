@@ -62,7 +62,7 @@
 <table align="center">
 <tr>
 <td align="center" width="50%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bartoszclapinski&theme=nightowl" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bartoszclapinski&theme=gotham" width="100%"/>
 </td>
 <td align="center" width="50%">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=bartoszclapinski&theme=tokyonight&background=1a1b26&border=414868&ring=7aa2f7&fire=f7768e&currStreakLabel=7aa2f7&sideLabels=7dcfff&dates=c0caf5&currStreakNum=c0caf5&sideNums=bb9af7" width="100%"/>
@@ -98,10 +98,10 @@
 <table align="center" width="100%">
 <tr>
 <td align="center" width="65%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bartoszclapinski&theme=nightowl" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bartoszclapinski&theme=gotham" width="100%"/>
 </td>
 <td align="center" width="35%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bartoszclapinski&theme=nightowl&utcOffset=1" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bartoszclapinski&theme=gotham&utcOffset=1" width="100%"/>
 </td>
 </tr>
 </table>
