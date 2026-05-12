@@ -96,7 +96,7 @@
 <div align="center">
 
 <!-- skillicons.dev — beautiful, no setup needed -->
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,blazor,python,java,cpp,fastapi,nodejs,ts,react,docker,azure,git,github,vscode,postman,mysql,redis,linux,bash&theme=dark&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,python,java,cpp,fastapi,nodejs,ts,react,angular,docker,azure,git,github,vscode,postman,mysql,redis,linux,bash&theme=dark&perline=10)](https://skillicons.dev)
 
 <br/>
 
@@ -107,6 +107,7 @@
 ![Anthropic](https://img.shields.io/badge/Claude_API-1a1b26?style=for-the-badge&logo=anthropic&logoColor=e0af68&labelColor=1a1b26)
 ![LangChain](https://img.shields.io/badge/LangChain-1a1b26?style=for-the-badge&logo=chainlink&logoColor=9ece6a&labelColor=1a1b26)
 ![Semantic Kernel](https://img.shields.io/badge/Semantic_Kernel-1a1b26?style=for-the-badge&logo=microsoft&logoColor=7aa2f7&labelColor=1a1b26)
+![Blazor](https://img.shields.io/badge/Blazor-1a1b26?style=for-the-badge&logo=blazor&logoColor=bb9af7&labelColor=1a1b26)
 ![Entity Framework](https://img.shields.io/badge/EF_Core-1a1b26?style=for-the-badge&logo=dotnet&logoColor=bb9af7&labelColor=1a1b26)
 ![SignalR](https://img.shields.io/badge/SignalR-1a1b26?style=for-the-badge&logo=dotnet&logoColor=7dcfff&labelColor=1a1b26)
 
