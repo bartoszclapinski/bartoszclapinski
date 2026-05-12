@@ -27,6 +27,24 @@
 
 </div>
 
+<!-- ============== TAGLINE ============== -->
+<div align="center">
+
+<i>10 years in operations · now engineering production .NET systems · AI-curious by certification</i>
+
+</div>
+
+<br/>
+
+<!-- ============== STATUS BADGES ============== -->
+<div align="center">
+
+![Profile views](https://komarev.com/ghpvc/?username=bartoszclapinski&label=Profile+views&color=7aa2f7&style=for-the-badge&labelColor=1a1b26)
+![Followers](https://img.shields.io/github/followers/bartoszclapinski?label=Followers&style=for-the-badge&color=bb9af7&labelColor=1a1b26)
+![Open to Work](https://img.shields.io/badge/Open_to_Work-Junior_.NET-9ece6a?style=for-the-badge&labelColor=1a1b26)
+
+</div>
+
 <br/>
 
 <!-- ============== JSON ID CARD ============== -->
