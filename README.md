@@ -51,7 +51,7 @@
 <table align="center">
 <tr>
 <td align="center" width="50%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bartoszclapinski&theme=tokyonight" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bartoszclapinski&theme=nightowl" width="100%"/>
 </td>
 <td align="center" width="50%">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=bartoszclapinski&theme=tokyonight&background=1a1b26&border=414868&ring=7aa2f7&fire=f7768e&currStreakLabel=7aa2f7&sideLabels=7dcfff&dates=c0caf5&currStreakNum=c0caf5&sideNums=bb9af7" width="100%"/>
@@ -87,10 +87,10 @@
 <table align="center" width="100%">
 <tr>
 <td align="center" width="65%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bartoszclapinski&theme=tokyonight" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bartoszclapinski&theme=nightowl" width="100%"/>
 </td>
 <td align="center" width="35%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bartoszclapinski&theme=tokyonight&utcOffset=1" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bartoszclapinski&theme=nightowl&utcOffset=1" width="100%"/>
 </td>
 </tr>
 </table>
@@ -181,7 +181,7 @@ Lottery analysis application with statistical tests (Chi-square, K-S, Runs), pat
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=bartoszclapinski&theme=tokyonight&no-frame=false&no-bg=false&row=1&column=7&margin-w=10&title=Stars,Commits,Followers,Issues,PullRequest,Repositories,MultipleLang,LongTimeUser&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&v=2)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=bartoszclapinski&theme=tokyonight&no-frame=false&no-bg=false&row=1&column=7&margin-w=10&_cb=20260505b)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
