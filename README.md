@@ -48,17 +48,24 @@
 <!-- ============== STATS GRID — TOKYO NIGHT ============== -->
 ## ▸ BATCH STATS
 
-<div align="center">
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bartoszclapinski&theme=tokyonight"/>
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=bartoszclapinski&theme=tokyonight&background=1a1b26&border=414868&ring=7aa2f7&fire=f7768e&currStreakLabel=7aa2f7&sideLabels=7dcfff&dates=c0caf5&currStreakNum=c0caf5&sideNums=bb9af7"/>
-
-<br/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bartoszclapinski&theme=tokyonight"/>
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bartoszclapinski&theme=tokyonight"/>
-
-</div>
+<table align="center">
+<tr>
+<td align="center" width="50%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bartoszclapinski&theme=tokyonight" width="100%"/>
+</td>
+<td align="center" width="50%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bartoszclapinski&theme=tokyonight&background=1a1b26&border=414868&ring=7aa2f7&fire=f7768e&currStreakLabel=7aa2f7&sideLabels=7dcfff&dates=c0caf5&currStreakNum=c0caf5&sideNums=bb9af7" width="100%"/>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bartoszclapinski&theme=tokyonight" width="100%"/>
+</td>
+<td align="center" width="50%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bartoszclapinski&theme=tokyonight" width="100%"/>
+</td>
+</tr>
+</table>
 
 <br/>
 
