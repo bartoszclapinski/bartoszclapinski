@@ -83,17 +83,16 @@
 <!-- ============== PROFILE SUMMARY — VISUAL TABLE ============== -->
 ## ▸ PROFILE OVERVIEW
 
-<div align="center">
-
-<a href="https://github.com/bartoszclapinski">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bartoszclapinski&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/bartoszclapinski">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bartoszclapinski&theme=tokyonight&utcOffset=1" />
-</a>
-
-</div>
+<table align="center" width="100%">
+<tr>
+<td align="center" width="65%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bartoszclapinski&theme=tokyonight" width="100%"/>
+</td>
+<td align="center" width="35%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bartoszclapinski&theme=tokyonight&utcOffset=1" width="100%"/>
+</td>
+</tr>
+</table>
 
 <br/>
 
