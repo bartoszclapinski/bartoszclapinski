@@ -83,7 +83,7 @@
 </a>
 
 <a href="https://github.com/bartoszclapinski">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bartoszclapinski&theme=tokyonight&utcOffset=2" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bartoszclapinski&theme=tokyonight&utcOffset=1" />
 </a>
 
 </div>
@@ -105,8 +105,6 @@
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-1a1b26?style=for-the-badge&logo=openai&logoColor=f7768e&labelColor=1a1b26)
 ![Anthropic](https://img.shields.io/badge/Claude_API-1a1b26?style=for-the-badge&logo=anthropic&logoColor=e0af68&labelColor=1a1b26)
-![LangChain](https://img.shields.io/badge/LangChain-1a1b26?style=for-the-badge&logo=chainlink&logoColor=9ece6a&labelColor=1a1b26)
-![Semantic Kernel](https://img.shields.io/badge/Semantic_Kernel-1a1b26?style=for-the-badge&logo=microsoft&logoColor=7aa2f7&labelColor=1a1b26)
 ![Blazor](https://img.shields.io/badge/Blazor-1a1b26?style=for-the-badge&logo=blazor&logoColor=bb9af7&labelColor=1a1b26)
 ![Entity Framework](https://img.shields.io/badge/EF_Core-1a1b26?style=for-the-badge&logo=dotnet&logoColor=bb9af7&labelColor=1a1b26)
 ![SignalR](https://img.shields.io/badge/SignalR-1a1b26?style=for-the-badge&logo=dotnet&logoColor=7dcfff&labelColor=1a1b26)
