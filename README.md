@@ -50,12 +50,12 @@
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=bartoszclapinski&show_icons=true&theme=tokyonight&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&bg_color=1a1b26&border_color=414868&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=86400"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bartoszclapinski&theme=tokyonight"/>
 <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=bartoszclapinski&theme=tokyonight&background=1a1b26&border=414868&ring=7aa2f7&fire=f7768e&currStreakLabel=7aa2f7&sideLabels=7dcfff&dates=c0caf5&currStreakNum=c0caf5&sideNums=bb9af7"/>
 
 <br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bartoszclapinski&layout=compact&theme=tokyonight&title_color=7aa2f7&text_color=c0caf5&bg_color=1a1b26&border_color=414868&langs_count=10&hide=html,css,jupyter%20notebook&cache_seconds=86400"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bartoszclapinski&theme=tokyonight"/>
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bartoszclapinski&theme=tokyonight"/>
 
 </div>
@@ -74,7 +74,7 @@
 <br/>
 
 <!-- ============== PROFILE SUMMARY — VISUAL TABLE ============== -->
-## ▸ PROFILE SUMMARY CARDS
+## ▸ PROFILE OVERVIEW
 
 <div align="center">
 
@@ -83,12 +83,6 @@
 </a>
 
 <a href="https://github.com/bartoszclapinski">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bartoszclapinski&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bartoszclapinski&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/bartoszclapinski">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bartoszclapinski&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bartoszclapinski&theme=tokyonight&utcOffset=2" />
 </a>
 
