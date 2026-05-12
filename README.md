@@ -23,7 +23,7 @@
 <!-- ============== TYPING TERMINAL ============== -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=800&color=7AA2F7&background=1A1B2600&center=true&vCenter=true&width=720&height=50&lines=%24+whoami;%E2%86%92+.NET+developer+%C2%B7+AI+integrator;%E2%86%92+Building+TechQuiz+%2B+Coffer;%E2%86%92+The+.NET+%2B+AI+niche;%E2%86%92+Toru%C5%84%2C+Poland+%F0%9F%87%B5%F0%9F%87%B1+%E2%86%92+Tokyo+Night)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=800&color=7AA2F7&background=1A1B2600&center=true&vCenter=true&width=720&height=50&lines=%24+whoami;%E2%86%92+.NET+developer+%C2%B7+AI+integrator;%E2%86%92+Building+TechQuiz+%2B+Coffer;%E2%86%92+The+.NET+%2B+AI+niche;%E2%86%92+Toru%C5%84%2C+Poland)](https://git.io/typing-svg)
 
 </div>
 
@@ -208,7 +208,7 @@ Lottery analysis application with statistical tests (Chi-square, K-S, Runs), pat
 
 <br/>
 
-> *"Code is poetry written in Tokyo Night."*
+> *"Code is poetry"*
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:bb9af7,50:7aa2f7,100:1a1b26&height=120&section=footer)
 
