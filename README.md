@@ -45,6 +45,17 @@
 
 <br/>
 
+<!-- ============== TROPHIES ============== -->
+## ▸ ACHIEVEMENTS
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=bartoszclapinski&theme=tokyonight&no-frame=false&no-bg=false&row=1&column=7&margin-w=10&_cb=20260505b)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+<br/>
+
 <!-- ============== STATS GRID — TOKYO NIGHT ============== -->
 ## ▸ BATCH STATS
 
@@ -176,16 +187,6 @@ Lottery analysis application with statistical tests (Chi-square, K-S, Runs), pat
 
 <br/>
 
-<!-- ============== TROPHIES ============== -->
-## ▸ ACHIEVEMENTS
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=bartoszclapinski&theme=tokyonight&no-frame=false&no-bg=false&row=1&column=7&margin-w=10&_cb=20260505b)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-<br/>
 
 <!-- ============== CONTACT NEON BUTTONS ============== -->
 ## ▸ TRANSMIT
