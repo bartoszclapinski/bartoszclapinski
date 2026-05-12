@@ -50,12 +50,12 @@
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=bartoszclapinski&show_icons=true&theme=tokyonight&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&bg_color=1a1b26&border_color=414868&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=bartoszclapinski&show_icons=true&theme=tokyonight&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&bg_color=1a1b26&border_color=414868&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=86400"/>
 <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=bartoszclapinski&theme=tokyonight&background=1a1b26&border=414868&ring=7aa2f7&fire=f7768e&currStreakLabel=7aa2f7&sideLabels=7dcfff&dates=c0caf5&currStreakNum=c0caf5&sideNums=bb9af7"/>
 
 <br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bartoszclapinski&layout=compact&theme=tokyonight&title_color=7aa2f7&text_color=c0caf5&bg_color=1a1b26&border_color=414868&langs_count=10&hide=html,css,jupyter%20notebook"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bartoszclapinski&layout=compact&theme=tokyonight&title_color=7aa2f7&text_color=c0caf5&bg_color=1a1b26&border_color=414868&langs_count=10&hide=html,css,jupyter%20notebook&cache_seconds=86400"/>
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bartoszclapinski&theme=tokyonight"/>
 
 </div>
@@ -120,26 +120,59 @@
 
 <br/>
 
-<!-- ============== PROJECTS — PINNED REPO CARDS ============== -->
+<!-- ============== PROJECTS — RELIABLE PIN CARDS ============== -->
 ## ▸ ACTIVE PROJECTS
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://github.com/bartoszclapinski/DevMetricsPRO">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bartoszclapinski&repo=DevMetricsPRO&theme=tokyonight&bg_color=1a1b26&title_color=7aa2f7&text_color=c0caf5&border_color=414868"/>
-</a>
-<a href="https://github.com/bartoszclapinski/Doc-Flow-Hub">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bartoszclapinski&repo=Doc-Flow-Hub&theme=tokyonight&bg_color=1a1b26&title_color=f7768e&text_color=c0caf5&border_color=414868"/>
-</a>
+### [▸ DevMetricsPRO](https://github.com/bartoszclapinski/DevMetricsPRO)
+**.NET 9 · Blazor Server · SignalR · Redis · 80% coverage**
 
-<a href="https://github.com/bartoszclapinski/BlockSmith">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bartoszclapinski&repo=BlockSmith&theme=tokyonight&bg_color=1a1b26&title_color=bb9af7&text_color=c0caf5&border_color=414868"/>
-</a>
-<a href="https://github.com/bartoszclapinski/LotteryLAB">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bartoszclapinski&repo=LotteryLAB&theme=tokyonight&bg_color=1a1b26&title_color=9ece6a&text_color=c0caf5&border_color=414868"/>
-</a>
+Real-time developer analytics dashboard. Tracks team productivity, code quality, and project health through GitHub, GitLab, and Jira integrations.
 
-</div>
+![Stars](https://img.shields.io/github/stars/bartoszclapinski/DevMetricsPRO?style=flat-square&color=7aa2f7&labelColor=1a1b26)
+![Last commit](https://img.shields.io/github/last-commit/bartoszclapinski/DevMetricsPRO?style=flat-square&color=bb9af7&labelColor=1a1b26)
+
+</td>
+<td width="50%" valign="top">
+
+### [▸ Doc-Flow-Hub](https://github.com/bartoszclapinski/Doc-Flow-Hub)
+**ASP.NET Core 9 · Azure · OpenAI · Clean Architecture**
+
+Document management system with versioning, team collaboration, and AI-powered document summarization via OpenAI integration.
+
+![Stars](https://img.shields.io/github/stars/bartoszclapinski/Doc-Flow-Hub?style=flat-square&color=f7768e&labelColor=1a1b26)
+![Last commit](https://img.shields.io/github/last-commit/bartoszclapinski/Doc-Flow-Hub?style=flat-square&color=bb9af7&labelColor=1a1b26)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [▸ BlockSmith](https://github.com/bartoszclapinski/BlockSmith)
+**Java · SHA-256 · ECDSA · Merkle Trees**
+
+Complete blockchain implementation from scratch: hashing, Proof-of-Work mining, wallets, transaction validation, and economic system.
+
+![Stars](https://img.shields.io/github/stars/bartoszclapinski/BlockSmith?style=flat-square&color=bb9af7&labelColor=1a1b26)
+![Last commit](https://img.shields.io/github/last-commit/bartoszclapinski/BlockSmith?style=flat-square&color=bb9af7&labelColor=1a1b26)
+
+</td>
+<td width="50%" valign="top">
+
+### [▸ LotteryLAB](https://github.com/bartoszclapinski/LotteryLAB)
+**Python · FastAPI · HTMX · 79% coverage**
+
+Lottery analysis application with statistical tests (Chi-square, K-S, Runs), pattern detection, and correlation analysis.
+
+![Stars](https://img.shields.io/github/stars/bartoszclapinski/LotteryLAB?style=flat-square&color=9ece6a&labelColor=1a1b26)
+![Last commit](https://img.shields.io/github/last-commit/bartoszclapinski/LotteryLAB?style=flat-square&color=bb9af7&labelColor=1a1b26)
+
+</td>
+</tr>
+</table>
 
 <br/>
 
