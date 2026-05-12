@@ -181,7 +181,7 @@ Lottery analysis application with statistical tests (Chi-square, K-S, Runs), pat
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=bartoszclapinski&theme=tokyonight&no-frame=false&no-bg=false&row=1&column=7&margin-w=10&title=Stars,Commits,Followers,Issues,PullRequest,Repositories,MultipleLang,LongTimeUser)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=bartoszclapinski&theme=tokyonight&no-frame=false&no-bg=false&row=1&column=7&margin-w=10&title=Stars,Commits,Followers,Issues,PullRequest,Repositories,MultipleLang,LongTimeUser&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&v=2)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
