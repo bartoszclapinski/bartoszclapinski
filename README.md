@@ -16,7 +16,7 @@
 <!-- ============== NEON BANNER ============== -->
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:7aa2f7,100:bb9af7&height=200&section=header&text=%3C%20BARTOSZ%20%2F%3E&fontSize=60&fontColor=c0caf5&fontAlignY=38&desc=.NET%20%C2%B7%20AI%20%C2%B7%20TORU%C5%83%20%E2%86%92%20TOKYO%20NIGHT&descAlignY=58&descSize=16&descColor=7dcfff&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:7aa2f7,100:bb9af7&height=220&section=header&text=Bartosz%20C%C5%82api%C5%84ski&fontSize=58&fontColor=c0caf5&fontAlignY=38&desc=.NET%20Developer%20%C2%B7%20AI%20Integration%20%C2%B7%20Toru%C5%84%2C%20Poland&descAlignY=58&descSize=16&descColor=7dcfff&animation=fadeIn)
 
 </div>
 
@@ -42,34 +42,6 @@
   "fuel": ["☕", "F1", "Hans Zimmer"]
 }
 ```
-
-<br/>
-
-<!-- ============== GITHUB METRICS — THE GOOD STUFF ============== -->
-## ▸ LIVE METRICS
-
-> *GitHub Metrics — fully animated SVG, regenerates every 6 hours via GitHub Action*
-
-<div align="center">
-
-<!-- This is the big one — animated, comprehensive -->
-![Metrics](https://github.com/bartoszclapinski/bartoszclapinski/blob/main/github-metrics.svg)
-
-</div>
-
-<details>
-<summary>🔧 <b>How to enable live metrics →</b></summary>
-
-The `github-metrics.svg` regenerates automatically. Setup:
-
-1. Create `.github/workflows/metrics.yml` (template available — ask Claude)
-2. Generate a personal access token with `repo` + `read:user` scopes
-3. Add as repo secret `METRICS_TOKEN`
-4. Action runs every 6h — your metrics stay fresh
-
-Plugins enabled: isocalendar, languages, activity, achievements, stars, repositories, code stats.
-
-</details>
 
 <br/>
 
@@ -177,18 +149,6 @@ Plugins enabled: isocalendar, languages, activity, achievements, stars, reposito
 <div align="center">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=bartoszclapinski&theme=tokyonight&no-frame=false&no-bg=false&row=1&column=7&margin-w=10&title=Stars,Commits,Followers,Issues,PullRequest,Repositories,MultipleLang)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-<br/>
-
-<!-- ============== CONTRIBUTION SNAKE ============== -->
-## ▸ CONTRIBUTION SNAKE
-
-<!-- Setup: .github/workflows/snake.yml — auto-regenerates daily -->
-<div align="center">
-
-![snake gif](https://raw.githubusercontent.com/bartoszclapinski/bartoszclapinski/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
