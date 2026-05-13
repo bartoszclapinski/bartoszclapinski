@@ -208,6 +208,16 @@ Lottery analysis application with statistical tests (Chi-square, K-S, Runs), pat
 
 <br/>
 
+<!-- ============== SNAKE EATING CONTRIBUTIONS ============== -->
+## ▸ CONTRIBUTION SNAKE
+
+<div align="center">
+
+![snake animation](https://raw.githubusercontent.com/bartoszclapinski/bartoszclapinski/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+<br/>
 
 <!-- ============== CONTACT NEON BUTTONS ============== -->
 ## ▸ TRANSMIT
