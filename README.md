@@ -1,248 +1,50 @@
-<!--
-====================================================================
-  GITHUB PROFILE README — bartoszclapinski
-  Theme: Tokyo Night (neon city, cyberpunk dev aesthetic)
-  Palette: bg #1a1b26 · blue #7aa2f7 · purple #bb9af7 · pink #f7768e
-           green #9ece6a · yellow #e0af68 · cyan #7dcfff
-  
-  → Drop in: github.com/bartoszclapinski/bartoszclapinski/README.md
-  → Repo name MUST = bartoszclapinski (same as your handle)
-  
-  Last revised: 2026-05-05
-    Active focus: TechQuiz (portfolio) + Coffer (AI-powered home finance)
-====================================================================
--->
-
-<!-- ============== NEON BANNER ============== -->
-<div align="center">
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:7aa2f7,100:bb9af7&height=220&section=header&text=Bartosz%20C%C5%82api%C5%84ski&fontSize=58&fontColor=c0caf5&fontAlignY=38&desc=.NET%20Developer%20%C2%B7%20AI%20Integration%20%C2%B7%20Toru%C5%84%2C%20Poland&descAlignY=58&descSize=16&descColor=7dcfff&animation=fadeIn)
-
-</div>
-
-<!-- ============== TYPING TERMINAL ============== -->
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=800&color=7AA2F7&background=1A1B2600&center=true&vCenter=true&width=720&height=50&lines=%24+whoami;%E2%86%92+.NET+developer+%C2%B7+AI+integrator;%E2%86%92+Building+TechQuiz+%2B+Coffer;%E2%86%92+The+.NET+%2B+AI+niche;%E2%86%92+Toru%C5%84%2C+Poland)](https://git.io/typing-svg)
-
-</div>
-
-<!-- ============== TAGLINE ============== -->
-<div align="center">
-
-<i>10 years in operations · now engineering production .NET systems · AI-curious by certification</i>
-
-</div>
-
-<br/>
-
-<!-- ============== STATUS BADGES ============== -->
-<div align="center">
-
-![Profile views](https://komarev.com/ghpvc/?username=bartoszclapinski&label=Profile+views&color=7aa2f7&style=for-the-badge&labelColor=1a1b26)
-![Followers](https://img.shields.io/github/followers/bartoszclapinski?label=Followers&style=for-the-badge&color=bb9af7&labelColor=1a1b26)
-![Open to Work](https://img.shields.io/badge/Open_to_Work-Junior_.NET-9ece6a?style=for-the-badge&labelColor=1a1b26)
-
-</div>
-
-<br/>
-
-<!-- ============== JSON ID CARD ============== -->
-```json
-{
-  "name": "Bartosz Cłapiński",
-  "role": ".NET Developer + AI Integration",
-  "location": "Toruń, Poland 🇵🇱",
-  "education": "BEng Computer Science @ PJATK (2024)",
-  "learning": ["LangChain", "Semantic Kernel", "RAG", "Azure AI"],
-  "status": "seeking first commercial role",
-  "current_obsession": "Building TechQuiz + Coffer (AI-powered finance)",
-  "fuel": ["☕", "F1", "Hans Zimmer"]
-}
-```
-
-<br/>
-
-<!-- ============== TROPHIES ============== -->
-## ▸ ACHIEVEMENTS
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=bartoszclapinski&theme=tokyonight&no-frame=false&no-bg=false&row=1&column=7&margin-w=10&_cb=20260505b)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-<br/>
-
-<!-- ============== SNAKE EATING CONTRIBUTIONS ============== -->
-## ▸ CONTRIBUTION SNAKE
-
-<div align="center">
-
-![snake animation](https://raw.githubusercontent.com/bartoszclapinski/bartoszclapinski/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
-<br/>
-
-<!-- ============== STATS GRID — TOKYO NIGHT ============== -->
-## ▸ BATCH STATS
-
-<table align="center">
-<tr>
-<td align="center" width="50%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bartoszclapinski&theme=ocean_dark" width="100%"/>
-</td>
-<td align="center" width="50%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bartoszclapinski&theme=tokyonight&background=1a1b26&border=414868&ring=7aa2f7&fire=f7768e&currStreakLabel=7aa2f7&sideLabels=7dcfff&dates=c0caf5&currStreakNum=c0caf5&sideNums=bb9af7" width="100%"/>
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-<!-- Custom-colored chart (static data). Refreshed 2026-05-05 via gh GraphQL. Update when stats shift. -->
-<img src="https://quickchart.io/chart?bkg=%231a1b26&v=4&width=420&height=350&c=%7Btype%3A%27doughnut%27%2Cdata%3A%7Blabels%3A%5B%27C%23%27%2C%27Java%27%2C%27Python%27%2C%27Kotlin%27%2C%27TypeScript%27%2C%27Other%27%5D%2Cdatasets%3A%5B%7Bdata%3A%5B50%2C18%2C10%2C5%2C5%2C12%5D%2CbackgroundColor%3A%5B%27%23bb9af7%27%2C%27%23e0af68%27%2C%27%237aa2f7%27%2C%27%23f7768e%27%2C%27%237dcfff%27%2C%27%23565f89%27%5D%2CborderColor%3A%27%231a1b26%27%2CborderWidth%3A3%7D%5D%7D%2Coptions%3A%7Bplugins%3A%7Bdatalabels%3A%7Bdisplay%3Afalse%7D%2Clegend%3A%7Bposition%3A%27bottom%27%2Clabels%3A%7Bcolor%3A%27%23c0caf5%27%2Cfont%3A%7Bsize%3A13%7D%2Cpadding%3A10%2CboxWidth%3A14%7D%7D%2Ctitle%3A%7Bdisplay%3Atrue%2Ctext%3A%27Top%20Languages%20by%20Repo%27%2Ccolor%3A%27%237aa2f7%27%2Cfont%3A%7Bsize%3A16%2Cweight%3A%27bold%27%7D%2Cpadding%3A%7Btop%3A6%2Cbottom%3A10%7D%7D%7D%7D%7D" width="100%"/>
-</td>
-<td align="center" width="50%">
-<img src="https://quickchart.io/chart?bkg=%231a1b26&v=4&width=420&height=350&c=%7Btype%3A%27doughnut%27%2Cdata%3A%7Blabels%3A%5B%27C%23%27%2C%27HTML%27%2C%27Java%27%2C%27TSQL%27%2C%27Dart%27%2C%27Other%27%5D%2Cdatasets%3A%5B%7Bdata%3A%5B34%2C26%2C8%2C8%2C8%2C16%5D%2CbackgroundColor%3A%5B%27%23bb9af7%27%2C%27%239ece6a%27%2C%27%23e0af68%27%2C%27%237dcfff%27%2C%27%23ff9e64%27%2C%27%23565f89%27%5D%2CborderColor%3A%27%231a1b26%27%2CborderWidth%3A3%7D%5D%7D%2Coptions%3A%7Bplugins%3A%7Bdatalabels%3A%7Bdisplay%3Afalse%7D%2Clegend%3A%7Bposition%3A%27bottom%27%2Clabels%3A%7Bcolor%3A%27%23c0caf5%27%2Cfont%3A%7Bsize%3A13%7D%2Cpadding%3A10%2CboxWidth%3A14%7D%7D%2Ctitle%3A%7Bdisplay%3Atrue%2Ctext%3A%27Top%20Languages%20by%20Volume%27%2Ccolor%3A%27%237aa2f7%27%2Cfont%3A%7Bsize%3A16%2Cweight%3A%27bold%27%7D%2Cpadding%3A%7Btop%3A6%2Cbottom%3A10%7D%7D%7D%7D%7D" width="100%"/>
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- ============== ACTIVITY GRAPH — NEON LINE CHART ============== -->
-## ▸ COMMIT ACTIVITY
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bartoszclapinski&bg_color=1a1b26&color=7aa2f7&line=bb9af7&point=f7768e&area=true&area_color=7aa2f7&hide_border=false&custom_title=Contribution%20Activity%20%E2%80%94%20Last%20Year&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
-<br/>
-
-<!-- ============== PROFILE SUMMARY — VISUAL TABLE ============== -->
-## ▸ PROFILE OVERVIEW
-
-<table align="center" width="100%">
-<tr>
-<td align="center" width="65%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bartoszclapinski&theme=ocean_dark" width="100%"/>
-</td>
-<td align="center" width="35%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bartoszclapinski&theme=ocean_dark&utcOffset=1" width="100%"/>
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- ============== TECH ARSENAL — SKILL ICONS ============== -->
-## ▸ TECH ARSENAL
-
-<div align="center">
-
-<!-- skillicons.dev — beautiful, no setup needed -->
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,python,java,cpp,fastapi,nodejs,ts,react,angular,docker,azure,git,github,vscode,postman,mysql,redis,linux,bash&theme=dark&perline=10)](https://skillicons.dev)
-
-<br/>
-
-**Specialization Layer**
-<br/>
-
-![.NET](https://img.shields.io/badge/.NET-1a1b26?style=for-the-badge&logo=dotnet&logoColor=bb9af7&labelColor=1a1b26)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-1a1b26?style=for-the-badge&logo=dotnet&logoColor=7aa2f7&labelColor=1a1b26)
-![Entity Framework](https://img.shields.io/badge/EF_Core-1a1b26?style=for-the-badge&logo=dotnet&logoColor=bb9af7&labelColor=1a1b26)
-![Blazor](https://img.shields.io/badge/Blazor-1a1b26?style=for-the-badge&logo=blazor&logoColor=bb9af7&labelColor=1a1b26)
-![SignalR](https://img.shields.io/badge/SignalR-1a1b26?style=for-the-badge&logo=dotnet&logoColor=7dcfff&labelColor=1a1b26)
-![Java](https://img.shields.io/badge/Java-1a1b26?style=for-the-badge&logo=openjdk&logoColor=e0af68&labelColor=1a1b26)
-![OpenAI](https://img.shields.io/badge/OpenAI-1a1b26?style=for-the-badge&logo=openai&logoColor=white&labelColor=1a1b26)
-![Anthropic](https://img.shields.io/badge/Claude_API-1a1b26?style=for-the-badge&logo=anthropic&logoColor=e0af68&labelColor=1a1b26)
-
-</div>
-
-<br/>
-
-<!-- ============== PROJECTS — RELIABLE PIN CARDS ============== -->
-## ▸ ACTIVE PROJECTS
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### [▸ DevMetricsPRO](https://github.com/bartoszclapinski/DevMetricsPRO)
-**.NET 9 · Blazor Server · SignalR · Redis · 80% coverage**
-
-Real-time developer analytics dashboard. Tracks team productivity, code quality, and project health through GitHub, GitLab, and Jira integrations.
-
-![Stars](https://img.shields.io/github/stars/bartoszclapinski/DevMetricsPRO?style=flat-square&color=7aa2f7&labelColor=1a1b26)
-![Last commit](https://img.shields.io/github/last-commit/bartoszclapinski/DevMetricsPRO?style=flat-square&color=bb9af7&labelColor=1a1b26)
-
-</td>
-<td width="50%" valign="top">
-
-### [▸ Doc-Flow-Hub](https://github.com/bartoszclapinski/Doc-Flow-Hub)
-**ASP.NET Core 9 · Azure · OpenAI · Clean Architecture**
-
-Document management system with versioning, team collaboration, and AI-powered document summarization via OpenAI integration.
-
-![Stars](https://img.shields.io/github/stars/bartoszclapinski/Doc-Flow-Hub?style=flat-square&color=f7768e&labelColor=1a1b26)
-![Last commit](https://img.shields.io/github/last-commit/bartoszclapinski/Doc-Flow-Hub?style=flat-square&color=bb9af7&labelColor=1a1b26)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [▸ BlockSmith](https://github.com/bartoszclapinski/BlockSmith)
-**Java · SHA-256 · ECDSA · Merkle Trees**
-
-Complete blockchain implementation from scratch: hashing, Proof-of-Work mining, wallets, transaction validation, and economic system.
-
-![Stars](https://img.shields.io/github/stars/bartoszclapinski/BlockSmith?style=flat-square&color=bb9af7&labelColor=1a1b26)
-![Last commit](https://img.shields.io/github/last-commit/bartoszclapinski/BlockSmith?style=flat-square&color=bb9af7&labelColor=1a1b26)
-
-</td>
-<td width="50%" valign="top">
-
-### [▸ LotteryLAB](https://github.com/bartoszclapinski/LotteryLAB)
-**Python · FastAPI · HTMX · 79% coverage**
-
-Lottery analysis application with statistical tests (Chi-square, K-S, Runs), pattern detection, and correlation analysis.
-
-![Stars](https://img.shields.io/github/stars/bartoszclapinski/LotteryLAB?style=flat-square&color=9ece6a&labelColor=1a1b26)
-![Last commit](https://img.shields.io/github/last-commit/bartoszclapinski/LotteryLAB?style=flat-square&color=bb9af7&labelColor=1a1b26)
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- ============== CONTACT NEON BUTTONS ============== -->
-## ▸ TRANSMIT
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1b26?style=for-the-badge&logo=linkedin&logoColor=7aa2f7&labelColor=1a1b26)](https://linkedin.com/in/bartosz-clapinski)
-[![GitHub](https://img.shields.io/badge/GitHub-1a1b26?style=for-the-badge&logo=github&logoColor=c0caf5&labelColor=1a1b26)](https://github.com/bartoszclapinski)
-[![Email](https://img.shields.io/badge/Email-1a1b26?style=for-the-badge&logo=gmail&logoColor=f7768e&labelColor=1a1b26)](mailto:bartosz.clapinski@gmail.com)
-
-</div>
-
-<br/>
-
-<!-- ============== FOOTER ============== -->
-<div align="center">
-
-![Profile views](https://komarev.com/ghpvc/?username=bartoszclapinski&label=Profile+visits&color=7aa2f7&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/bartoszclapinski?label=Followers&style=for-the-badge&color=bb9af7&labelColor=1a1b26)
-![Stars](https://img.shields.io/github/stars/bartoszclapinski?label=Stars&style=for-the-badge&color=f7768e&labelColor=1a1b26)
-
-<br/>
-
-> *"Code is poetry"*
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:bb9af7,50:7aa2f7,100:1a1b26&height=120&section=footer)
-
-</div>
+<h1 align="center">Bartosz Cłapiński</h1>
+<p align="center"><code>.NET Developer · AI Integration · Toruń, Poland</code></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20to-Junior%20.NET%20roles-9ece6a?style=flat-square&labelColor=0d1117" alt="Open to Junior .NET roles" />
+</p>
+
+---
+
+I spent a decade in operations before turning a long-time hobby into a career. Now I build production-grade **.NET** apps end to end — from EF Core data layers to Blazor and React front-ends — and I test what I ship. Lately I'm deep in **AI integration**: RAG, tool-calling, and multi-provider LLM work.
+
+### ⭐ Featured — TechQuiz
+
+Quiz platform to test your knowledge of .NET, SQL and design patterns — multiple-choice today, AI-generated code questions next. Built with **Clean Architecture, TDD and a full CI/CD pipeline**.
+
+![.NET 9](https://img.shields.io/badge/.NET%209-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![React 19](https://img.shields.io/badge/React%2019-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+**→ [github.com/bartoszclapinski/TechQuiz](https://github.com/bartoszclapinski/TechQuiz)**
+
+### Projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| **[Coffer](https://github.com/bartoszclapinski/Coffer)** | Local-first personal finance app with AI — statement parsing, receipt OCR, anomaly detection | `.NET 9` · `Avalonia + MAUI` · `Claude/OpenAI` |
+| **[Doc-Flow-Hub](https://github.com/bartoszclapinski/Doc-Flow-Hub)** | Document management with versioning, auth and team collaboration | `ASP.NET Core 8` · `EF Core` · `SQL Server` |
+| **[BlockSmith](https://github.com/bartoszclapinski/BlockSmith)** | A blockchain from scratch: PoW mining, ECDSA wallets, Merkle trees | `Java` · `SHA-256` · `cryptography` |
+| **[LotteryLAB](https://github.com/bartoszclapinski/LotteryLAB)** | Statistical analysis app — pattern detection and correlation tests | `Python` · `FastAPI` · `HTMX` · `SQLite` |
+
+### Stack
+
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white)
+![EF Core](https://img.shields.io/badge/EF%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+
+---
+
+<p align="center">
+  <a href="https://linkedin.com/in/bartoszclapinski"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/bartoszclapinski"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:bartosz.clapinski@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
